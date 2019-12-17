@@ -35,9 +35,9 @@ Find the file `index.js` and complete the tasks until your tests are passing. On
 
 <summary><strong>Using VSCode and a Command Line:</strong></summary>
 
-1. Fork repo and add TL as collaborator on Github
-1. Clone _your_ fork (not Lambda's repo by mistake!)
-1. `cd` into your newly cloned repository
+x1. Fork repo and add TL as collaborator on Github
+x1. Clone _your_ fork (not Lambda's repo by mistake!)
+x1. `cd` into your newly cloned repository
 1. Create a new branch by typing `git checkout -b <firstName-lastName>`
 1. Install dependencies by typing `npm install`
 1. Run tests by typing `npm run test:watch`
